@@ -12,7 +12,7 @@
 - Tools: [Git]
 - Other: [CI/CD]
 
-## 📈 Thống kê GitHub
+## 📈 GitHub Statistics
 ![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanduong6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanduong6&layout=compact&theme=radical)
 
