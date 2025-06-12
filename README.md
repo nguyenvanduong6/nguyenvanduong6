@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello! Iam Duong
 
-<!--
-**nguyenvanduong6/nguyenvanduong6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+- 🏢 Currently working on Quality control engineer
+- 💻 Passionate about automated testing
+- 🌱 Learning Cucumber, Playwright, Cypress
+- 📫 Contact [www.linkedin.com/in/dương-nguyễn-158211201]
 
-Here are some ideas to get you started:
+## 🛠️ Skill
+- Languages: [JavaScript]
+- Frameworks: [Cypress, Playwright]
+- Tools: [Git]
+- Other: [CI/CD]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Thống kê GitHub
+![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanduong6&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanduong6&layout=compact&theme=radical)
+
+> “Hãy sống như bạn muốn, đừng sống như người khác muốn bạn.”
