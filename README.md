@@ -8,9 +8,9 @@
 
 ## 🛠️ Skill
 - Languages: [JavaScript]
-- Frameworks: [Cypress, Playwright]
+- Frameworks: [Cypress, Playwright, Cucumber]
 - Tools: [Git]
-- Other: [CI/CD]
+- Other: [CI/CD, Export report (HTML, Slack, Mail)]
 
 ## 📈 GitHub Statistics
 ![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanduong6&show_icons=true&theme=radical)
