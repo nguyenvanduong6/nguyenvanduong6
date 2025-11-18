@@ -11,9 +11,8 @@
 - Frameworks: [Cypress, Playwright, Cucumber]
 - Tools: [Git]
 - Other: [CI/CD, Export report (HTML, Slack, Mail)]
+- Allure report: https://nguyenvanduong6.github.io/playwright-pom-ts/index.html
 
 ## 📈 GitHub Statistics
 ![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanduong6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanduong6&layout=compact&theme=radical)
-
-> “Hãy sống như bạn muốn, đừng sống như người khác muốn bạn.”
