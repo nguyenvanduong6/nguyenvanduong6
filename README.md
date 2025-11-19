@@ -11,7 +11,7 @@
 - Frameworks: [Cypress, Playwright, Cucumber]
 - Tools: [Git]
 - Other: [CI/CD, Export report (HTML, Slack, Mail)]
-- Allure report:
+- Allure report with Playwright:
 <img alt="Awesome Allure Report" src="allure-report(1280).gif"> </img>
   
 ## 📈 GitHub Statistics
